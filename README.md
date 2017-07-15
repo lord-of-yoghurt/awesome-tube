@@ -1,13 +1,10 @@
-# ReduxSimpleStarter
+# AwesomeTube!
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Ever wanted to use YouTube without having to deal with obnoxious comments and recommended videos that
+distract you from already being distracted? Heck, even the likes and views counters aren't included.
+Just the search bar, the video you're looking for, five similar results on the right side - that's it.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+To use, run:
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
@@ -16,10 +13,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+In addition, you will need a YouTube API key that you can plug in to the index.js file.
 
-```
-> npm install
-> npm start
-```
+App made using React, very basic Bootstrap, and with awesome guidance by [Stephen Grider](https://github.com/StephenGrider)
