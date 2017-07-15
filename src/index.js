@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar'
 import VideoList from './components/video_list'
 import VideoDetail from './components/video_detail'
 
-const KEY = 'AIzaSyC7NfBtNQBvxCtvzd1LxLFZgz4Wf7gsngc'
+const KEY = // YOUR KEY HERE!
 
 class App extends Component {
   constructor(props) {
